@@ -21,7 +21,7 @@ function AdminPage() {
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, []); 
 
   useEffect(() => {
     loadProducts();
