@@ -3,7 +3,7 @@ const BASE_URL = `${import.meta.env.VITE_API_URL}`;
 
 const api = axios.create({
   baseURL: BASE_URL,
-  withCredentials: true
+  withCredentials: "include"
 });
 
 export const getProducts = async (search = "", page = 1, limit = 8) => {
