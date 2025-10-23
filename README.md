@@ -4,8 +4,9 @@
 **Routes**  
 /  
 /products  
-/admin *protected route*  
-/login
+/login  
+*protected route:*  
+/admin  
 
 **Te get data**  
 Go to ⬇ and follow the steps in readme  
