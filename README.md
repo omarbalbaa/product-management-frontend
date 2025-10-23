@@ -1,9 +1,10 @@
-# Access through  
+**Access through**  
 [https://product-management-frontend.pages.dev/](https://product-management-frontend.pages.dev/)  
 
 **Routes**  
-/ or /products  
-/admin *protected route*
+/  
+/products  
+/admin *protected route*  
 /login
 
 **Te get data**  
